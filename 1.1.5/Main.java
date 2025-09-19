@@ -11,8 +11,7 @@ public class Main {
 
         if (0.0 < x && x < 1.0 && 0.0 < y && y < 1.0) {
             System.out.println("true");
-        }
-        else {
+        } else {
             System.out.println("false");
         }
     }
